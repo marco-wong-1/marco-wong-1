@@ -6,19 +6,13 @@
 
 **Find me here**
 
-[![website](./img/globe-light.svg#gh-light-mode-only)](https://marco-wong.com/)
-[![website](./img/globe-dark.svg#gh-dark-mode-only)](https://marco-wong.com/)
-[![linkedin](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/marco-wong-chun-pang/)
-[![linkedin](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/marco-wong-chun-pang/)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./img/globe-dark.svg"><img alt="website" src="./img/globe-light.svg"></picture>](https://marco-wong.com/)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg"><img alt="website" src="./img/linkedin-light.svg"></picture>](https://www.linkedin.com/in/marco-wong-chun-pang/)
 
 <picture>
   <source
     srcset="https://github-readme-stats-marco-wong.vercel.app/api/top-langs?username=marco-wong-1&layout=donut&theme=dark&langs_count=7"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-marco-wong.vercel.app/api/top-langs?username=marco-wong-1&layout=donut&langs_count=7"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-marco-wong.vercel.app/api/top-langs?username=marco-wong-1&layout=donut&langs_count=7" />
 </picture>
