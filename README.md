@@ -6,10 +6,10 @@
 
 **Find me here**
 
-![website](./img/globe-light.svg#gh-light-mode-only)
-![website](./img/globe-dark.svg#gh-dark-mode-only)
-![linkedin](./img/linkedin-light.svg#gh-light-mode-only)
-![linkedin](./img/linkedin-dark.svg#gh-dark-mode-only)
+[![website](./img/globe-light.svg#gh-light-mode-only)](https://marco-wong.com/)
+[![website](./img/globe-dark.svg#gh-dark-mode-only)](https://marco-wong.com/)
+[![linkedin](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/marco-wong-chun-pang/)
+[![linkedin](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/marco-wong-chun-pang/)
 
 <picture>
   <source
