@@ -14,5 +14,5 @@
     srcset="https://github-readme-stats-marco-wong.vercel.app/api/top-langs?username=marco-wong-1&layout=donut&theme=dark&langs_count=7"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats-marco-wong.vercel.app/api/top-langs?username=marco-wong-1&layout=donut&langs_count=7" />
+  <img alt="github language stats" src="https://github-readme-stats-marco-wong.vercel.app/api/top-langs?username=marco-wong-1&layout=donut&langs_count=7" />
 </picture>
